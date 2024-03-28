@@ -1,7 +1,7 @@
 # html
 <html>
   <head>
-    <title>muself</title>
+    
     <body>
       <center>
       <table border="0">
