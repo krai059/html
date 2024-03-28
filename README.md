@@ -4,7 +4,7 @@
     <title>muself</title>
     <body>
       <center>
-      <table border="1">
+      <table border="0">
         <tr>
           <td>Name:</td><td> Kiran Rai</td>
         </tr>  
