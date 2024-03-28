@@ -1,7 +1,6 @@
 # html
 <html>
   <head>
-    
     <body>
       <center>
       <table border="0">
